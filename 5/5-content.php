@@ -7,18 +7,15 @@ preg_match_all($pattern_uri, __DIR__, $matches);
 $url_path = $url_host . $matches[1][0];
 $url_path = str_replace('\\', '/', $url_path);
 ?>
-<div class="type-4">
+<div class="type-5">
     <div class="container">
-    
-        
-            <div class="ramid bgr-dt1">
-                <h4>YOU LOVE OUR THEME</h4>
-                <h5>No coding knowledge required.Preimium</h5>
+        <div class="row">
+            <div class="ramid1">
+                <h4><b>YOU LOVE OUR THEME</b></h4>
+                <h5>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</h5>
+                <button class="btn-color">PURCHARE NOW</button>
             </div>
-            <div class="btn-www"> 
-                <button >shop now --></button>
-            </div>
-        
-            
-    </div>
+           
+        </div>
+    </div> <footer class="fter">@Copyright 2019<a> nguyenthitamnhu.</a> All right reseved</footer>
 </div>
