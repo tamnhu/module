@@ -12,8 +12,8 @@ $url_path = str_replace('\\', '/', $url_path);
     
         
             <div class="ramid bgr-dt1">
-                <h4>New Smart phone</h4>
-                <h5>Big sale off 50%</h5>
+                <h4>YOU LOVE OUR THEME</h4>
+                <h5>No coding knowledge required.Preimium</h5>
             </div>
             <div class="btn-www"> 
                 <button >shop now --></button>
